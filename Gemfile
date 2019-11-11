@@ -5,7 +5,9 @@ ruby '2.5.3'
 
 # Added by Guven
 
+gem 'simple_form'
 gem 'jquery-rails'
+gem 'devise'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
