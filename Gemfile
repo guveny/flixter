@@ -5,12 +5,7 @@ ruby '2.5.3'
 
 # Added by Guven
 
-gem 'simple_form'
-gem 'jquery-rails'
-gem 'devise'
-gem 'carrierwave', '~> 2.0'
-gem "figaro"
-gem "mini_magick"
+
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -44,6 +39,16 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # Reduces boot times through caching; required in config/boot.rb
+# Added  by Guven
+gem 'simple_form'
+gem 'jquery-rails'
+gem 'devise'
+gem "figaro"
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'carrierwave-aws'
+
+
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
