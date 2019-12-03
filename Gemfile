@@ -74,6 +74,7 @@ gem 'bootstrap', '4.0.0.alpha6'
 gem 'simple_form'
 gem 'jquery-rails'
 gem 'devise'
+gem 'stripe'
 
 
 source 'https://rails-assets.org' do
