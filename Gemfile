@@ -75,6 +75,7 @@ gem 'simple_form'
 gem 'jquery-rails'
 gem 'devise'
 gem 'stripe'
+gem 'ranked-model'
 
 
 source 'https://rails-assets.org' do
