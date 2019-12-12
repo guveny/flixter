@@ -76,6 +76,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'stripe'
 gem 'ranked-model'
+gem 'jquery-ui-rails'
 
 
 source 'https://rails-assets.org' do
